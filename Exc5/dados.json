@@ -1,0 +1,24 @@
+{
+	"dados":[
+		{
+			"nome":"Washington Santos",
+			"email":"mendesswashington@gmail.com",
+			"idade":"26",
+			"sexo":"M"
+		},
+		{
+			"nome":"Amanda Santos",
+			"email":"amanda@gmail.com",
+			"idade":"27",
+			"sexo":"F"
+		}
+	],
+	"numeros":[
+		{
+			"id":"0"
+		},
+		{
+			"id":"1"
+		}
+	]
+}
