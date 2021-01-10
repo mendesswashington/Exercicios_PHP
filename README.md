@@ -1,2 +1,2 @@
-# Exercicios_PHP
-Aqui está alguns exercícios de PHP. 
+# Curso de PHP
+Aque está algumas atividades do curso de PHP.
